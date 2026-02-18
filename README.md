@@ -1,2 +1,2 @@
 # Frontened_Project
-This is My frontened project using HTML ,CSS &amp; JS
+This is My frontened project using HTML ,CSS &amp; JS.
